@@ -1,4 +1,4 @@
-module redisgo
+module github.com/JairoTan/redisgo
 
 go 1.17
 
