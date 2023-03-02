@@ -1,3 +1,3 @@
-module github.com/aiscrm/redisgo
+module github.com/JairoTan/redisgo
 
 require github.com/gomodule/redigo v2.0.0+incompatible
