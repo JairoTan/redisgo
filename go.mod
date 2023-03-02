@@ -1,5 +1,5 @@
-module github.com/JairoTan/redisgo
+module redisgo
 
 go 1.17
 
-require github.com/gomodule/redigo v2.0.0+incompatible
+require github.com/gomodule/redigo v1.8.9
